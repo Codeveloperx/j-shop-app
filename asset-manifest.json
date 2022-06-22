@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/j-shop-app/static/css/main.d5184a90.css",
+    "main.js": "/j-shop-app/static/js/main.d12062f5.js",
+    "index.html": "/j-shop-app/index.html",
+    "main.d5184a90.css.map": "/j-shop-app/static/css/main.d5184a90.css.map",
+    "main.d12062f5.js.map": "/j-shop-app/static/js/main.d12062f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5184a90.css",
+    "static/js/main.d12062f5.js"
+  ]
+}
